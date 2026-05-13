@@ -16,6 +16,10 @@ Built a machine learning classification model to detect fraudulent credit card t
   * `1` → Fraudulent Transaction
 * The dataset is highly imbalanced, with very few fraud cases compared to normal transactions.
 
+* ## 🔗 Dataset Source
+The dataset used in this project is publicly available on Kaggle:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 ---
 
 ## 🛠️ Technologies
